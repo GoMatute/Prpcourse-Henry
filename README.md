@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Repositorio de mi prepcourse en Henry
+Este proyecto es para probar como clonar mi repositorio desde github a un dispositivo local 
